@@ -1,1 +1,1 @@
-# CQU-CS-Database
+重庆大学-数据库原理
