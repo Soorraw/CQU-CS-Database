@@ -1,0 +1,5 @@
+Description, ,Attribute,Datatype,Basictype,Constraints
+Primary,name,name,varchar(20),varchar,
+Position,0,age,int,int,
+Property,3,sex,varchar(2),varchar,
+Capacity,100,,,,
